@@ -1,23 +1,25 @@
-{
-  "name": "angular-todo",
-  "description": "",
-  "main": "index.js",
-  "authors": [
-    "Paul <jonpaul.steward@btinternet.com>"
-  ],
-  "license": "ISC",
-  "homepage": "https://github.com/Jpsteward/angular-todo",
-  "private": true,
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
-  "dependencies": {
-    "bootstrap": "^3.3.7",
-    "angular": "^1.6.3",
-    "angular-route": "^1.6.3"
-  }
-}
+{ 
+   "name": "angular-todo", 
+   "description": "", 
+   "main": "index.js", 
+   "authors": [ 
+     "Paul <jonpaul.steward@btinternet.com>" 
+   ], 
+   "license": "ISC", 
+   "homepage": "https://github.com/Jpsteward/angular-todo", 
+   "private": true, 
+   "ignore": [ 
+     "**/.*", 
+     "node_modules", 
+     "bower_components", 
+     "test", 
+     "tests" 
+   ], 
+   "dependencies": { 
+     "bootstrap": "^3.3.7", 
+     "angular": "^1.6.3", 
+     "angular-route": "^1.6.3" 
+   } 
+ } 
+
+
